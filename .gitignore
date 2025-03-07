@@ -1,0 +1,5 @@
+
+*.editorconfig
+obj/Debug/net8.0/EmployeeService.assets.cache
+obj/Debug/net8.0/EmployeeService.AssemblyInfoInputs.cache
+obj/Debug/net8.0/EmployeeService.AssemblyInfo.cs
