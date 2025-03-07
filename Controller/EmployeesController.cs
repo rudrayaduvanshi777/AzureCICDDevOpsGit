@@ -12,7 +12,7 @@ namespace EmployeeService.Controller
     [Route("api/[controller]")]
     public class EmployeesController : ControllerBase
     {
-        private readonly IEmployeeService _employeeService;
+        private readonly IEmployeeService _employeeService;//DI
 
         public EmployeesController(IEmployeeService employeeService)
         {
